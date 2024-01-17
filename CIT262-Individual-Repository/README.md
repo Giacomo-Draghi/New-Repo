@@ -1,4 +1,4 @@
-#A little bit aboud me
+# A little bit aboud me
 ---------------------
 
 Hi! my name is **Giacomo Draghi** and Iive in _Rimini, Italy_, I'm 27 and got married about 2 years ago. I like to do many things like: 
