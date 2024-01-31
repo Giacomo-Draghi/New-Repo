@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Hi, this is my node project for class CIT262",
   "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
+  "scripts":{
+    "hello":"node helloworld.js"  
+    },
   "repository": {
     "type": "git",
     "url": "New-Repo"
