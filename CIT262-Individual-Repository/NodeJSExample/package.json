@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "Hi, this is my node project for class CIT262",
   "main": "index.js",
-  "scripts":{
-    "hello":"node helloworld.js"  
-    },
+  "scripts": {
+    "test" : "mocha",
+    "hello": "node helloworld.js"
+  },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "New-Repo"
@@ -14,5 +16,8 @@
     "CIT262"
   ],
   "author": "Giacomo Draghi",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mocha": "^10.3.0"
+  }
 }
